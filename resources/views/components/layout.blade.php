@@ -27,7 +27,8 @@
         <nav class="md:flex md:justify-between md:items-center">
             <div>
                 <a href="/">
-                    <img src="/images/logo.svg" alt="Logo" width="80" height="16">
+                    <img src="/images/logo.svg" alt="Logo" width="80" height="40">
+                    <span class="text-blue-500 text-xl">My Blog</span>
                 </a>
             </div>
 
